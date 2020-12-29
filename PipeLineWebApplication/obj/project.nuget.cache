@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UXmtxy2vO8idYZHT0ucaLbaTNhFg0BmRZxQxQVzGSn6rdAkADgTZAWa3P/ULkSTDf8NvcJb2VJqGxNhDpguWcA==",
+  "dgSpecHash": "N0mG95GJfesStshooxQGknUvI6xjbAAoV97qHTe5qBuwujM/2SOwv6+ANBzhsA7+MJk0eJycRQ5kYd4INX45hg==",
   "success": true,
-  "projectFilePath": "C:\\PaymentPipeLine\\PipeLineWebApplication\\PipeLineWebApplication.csproj",
+  "projectFilePath": "D:\\Repository\\TestKafka\\PipeLineWebApplication\\PipeLineWebApplication.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s_k_das\\.nuget\\packages\\confluent.kafka\\1.0.1.1\\confluent.kafka.1.0.1.1.nupkg.sha512",
-    "C:\\Users\\s_k_das\\.nuget\\packages\\librdkafka.redist\\1.0.1\\librdkafka.redist.1.0.1.nupkg.sha512",
-    "C:\\Users\\s_k_das\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+    "C:\\Users\\DM\\.nuget\\packages\\confluent.kafka\\1.0.1.1\\confluent.kafka.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\DM\\.nuget\\packages\\librdkafka.redist\\1.0.1\\librdkafka.redist.1.0.1.nupkg.sha512",
+    "C:\\Users\\DM\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
